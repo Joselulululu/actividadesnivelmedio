@@ -1,0 +1,45 @@
+html{
+    box-sizing: border-box;
+    font-size: 62,5%;
+}
+header{
+    font-size: 20px;
+    background-color: rgb(92, 83, 83);
+    text-align: left;
+    margin: 0px;
+}
+.tab{
+    width: 30%;
+    background-color: white;
+    padding: 0px 10px;
+    margin: auto;
+    border-right: rgb(97, 107, 97) 5px solid;
+    border-left: rgb(97, 107, 97) 5px solid;
+    float: left;
+}
+.bla{
+    width: 35%;
+    background-color: white;
+    padding: 0px 10px;
+    margin: auto;
+    border-right: rgb(97, 107, 97) 5px solid;
+    border-left: rgb(97, 107, 97) 5px solid;
+}
+.gran{
+text-align: center;
+border: 5px black solid;
+}
+.flex{
+    display: flex;
+}
+h3{
+    background-color: rgb(9, 163, 9);
+    color: white;
+    border-radius: 5px;
+    margin: 0.4rem;
+}
+.mis{
+    background-color: white;
+    border:0.1rem black solid ;
+    margin: 1rem;
+}

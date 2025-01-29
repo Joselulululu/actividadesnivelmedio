@@ -1,0 +1,66 @@
+body {
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+}
+
+.container {
+    text-align: center;
+    margin: 170px 200px 100px 20px;
+}
+
+.logo {
+    font-size: 81px;
+    color: #4285f4;
+    margin: 50px;
+}
+
+.busqueda {
+    width: 600px;
+    height: 40px;
+    border: 1px solid #ccc;
+    border-radius: 24px;
+    padding: 0 20px;
+    font-size: 16px;
+    outline: none;
+}
+
+.buttons {
+    margin-top: 20px;
+}
+
+.search-button, .lucky-button {
+    background-color: #4285f4;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    padding: 10px 15px;
+    font-size: 14px;
+    cursor: pointer;
+    margin: 0 10px;
+}
+
+.search-button:hover, .lucky-button:hover {
+    background-color: #357ae8;
+}
+.azul{
+    color: rgb(13, 67, 184);
+}
+.rojo{
+    color: red;
+}
+.verd{
+    color: rgb(19, 172, 19);
+}
+.amar{
+    color: yellow;
+}
+
+a {
+    text-decoration: none;
+    margin: 40px  ;
+    color: black;
+}

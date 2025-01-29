@@ -1,0 +1,50 @@
+*{
+    text-align: center;
+}
+h1{color: black;}
+
+.fon{
+    background-color: rgb(41, 90, 223);
+    margin: 0px;
+}
+.fond{  
+    background-color: rgb(66, 126, 255);
+    margin: 0px;
+}
+table{
+    margin: 40px 40px 60px 270px;
+    border-collapse: collapse;
+    width: 60%;
+    background-color: rgb(111, 161, 226);
+    
+}
+td{
+    border: 2px black solid; 
+}
+th{
+    border: 2px black solid;
+}
+.amar{
+     background-color:  yellow;
+}
+.azul{
+    background-color: rgb(7, 147, 228);
+}
+.verd{
+    background-color: rgb(32, 204, 32);
+}
+.vio{
+    background-color: rgb(80, 55, 128);
+}
+.marr{
+    background-color: brown;
+}
+.rojo{
+    background-color: red;
+}
+.font{
+    font-size: 30px;
+}
+.onl{
+    font-size: 25px;
+}

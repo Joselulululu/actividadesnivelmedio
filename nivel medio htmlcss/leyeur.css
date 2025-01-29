@@ -1,0 +1,46 @@
+body{
+    background-color: green;
+}
+header{
+    color: white;
+    text-transform: uppercase;
+}
+div{
+    margin: 20px;
+}
+.blan{
+    width: 50%;
+    background-color: white;
+    padding: 0px 10px;
+    border-radius: 20px;
+    margin: auto;
+    border: 10px black solid;
+
+}
+.rojo{
+    width: 50%;
+    padding: 5px;
+    color: white;
+    border: 10px rgb(202, 0, 0) solid;
+    background-color: rgb(223, 96, 96);
+
+
+}
+.nara{
+    width: 50%;
+    margin-left: auto;
+    padding: 5px;
+    color: white;
+    border: 10px rgb(134, 87, 0) solid;
+    background-color: lightsalmon;
+}
+.azul{
+    width: 50%;
+    background-color: blue;
+    margin: auto;
+    padding: 0px 10px;
+    border: 10px lightskyblue dashed;
+    color: white;
+    border-radius: 20px;
+    padding: 5px;
+}

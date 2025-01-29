@@ -1,0 +1,27 @@
+*{
+    margin: 12px;
+    box-sizing: border-box;
+}
+header{
+    background-color: black;
+    color: white;
+}
+body{
+    width: 80%;
+    margin: auto;
+}
+.principal{
+    display: flex;
+    flex-direction: row nowrap;
+}
+.nas{width: 50%;}
+.colu{
+    width: 125%;
+    background-color: orange;
+}
+.alrd{
+    border: gray 5px solid;
+}
+.marg{
+    margin: 0px;
+}

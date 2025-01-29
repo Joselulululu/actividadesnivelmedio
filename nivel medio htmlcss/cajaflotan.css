@@ -1,0 +1,74 @@
+body{
+    background-color: gray;
+}
+header{
+    font-size: xx-large;
+    font-weight: 999;
+    text-align: center;
+}
+.naran{
+    text-align: center;
+    z-index: 0;
+    background-color: rgb(241, 181, 68);
+    margin: auto;
+    margin-bottom: 10px;
+    width: 90%;
+     border: 2px solid black;
+
+}
+.amar{
+    text-align: left;
+    position: absolute;
+    z-index: -1;
+    background-color: rgb(235, 235, 62);
+    border: 1px solid rgb(255, 196, 0);
+    padding-bottom: 50px;
+    width: 35%;
+    float: left;
+    left: 5%;
+    top: 20%;
+}
+.azul{
+    position: absolute;
+    left: 60%;
+    z-index: -1;
+    background-color: aqua;
+    border: 1px solid blue;
+    width: 35%;
+    padding-bottom: 50px;
+    text-align: right;
+    top: 20%;
+}
+.verd{
+    position: absolute;
+    padding-bottom: 60px;
+    top: 30%;
+    text-align: center;
+    border: 1px solid green;
+    width: 40%;
+    left: 30%;
+    background-color: greenyellow;
+    z-index: 1;
+}
+.vio{
+    position: absolute;
+    left: 5%;
+    width: 35%;
+    z-index: -1;
+    background-color: violet;
+    border: 1px solid purple;
+    top: 45%;
+    padding-bottom: 50px;
+    text-align: left;
+}
+.ros{
+    position: absolute;
+    text-align: right;
+    left: 60%;
+    z-index: -1;
+    padding-bottom: 30px;
+    width: 35%;
+    border: 1px solid purple;
+    background-color: palevioletred;
+    top: 45%;
+}

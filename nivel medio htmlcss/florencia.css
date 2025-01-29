@@ -1,0 +1,45 @@
+html{
+    box-sizing: border-box;
+    font-size: 62,5%;
+    background-color: rgb(170, 192, 128);
+    float: right;
+}
+
+header{
+    font-size: 2.2rem;
+    text-align: right;
+    color: blue;
+    font-weight: 900;
+    margin: 0rem 5rem  0rem 0rem;
+}
+.junt{
+    display: flex;
+    flex-direction: row;
+}
+h2{
+    border: 0.2rem black solid;
+    background-color: rgb(20, 59, 20);
+    color: white;
+}
+.peq{
+    width: 20%;
+    margin: 3rem 35rem 1rem ;
+}
+.dis{
+    display: flex;
+    flex-direction: column;
+}
+p{
+    font-size: 1.3rem;
+}
+.pequ{
+    width: 24%;
+    
+}
+.box{
+    display: flex;
+    flex-direction: row;
+}
+footer p{
+    font-size: 1rem;
+}
